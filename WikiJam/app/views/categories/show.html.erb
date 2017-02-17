@@ -1,0 +1,7 @@
+<article class="xviews xusers xnew">
+  <h1><%= @category.name %> </h1>
+  <h3>Related Articles</h3>
+  <% @category.articles.each do |article| %>
+  <a href="/articles/<%article.id%>"><%= article.article_title %></a>
+  <% end %>
+</article>
