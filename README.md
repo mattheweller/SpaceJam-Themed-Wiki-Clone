@@ -28,19 +28,6 @@
 - Kindly call us out on being a jerk
 - Maintain a place to have fun
 
-#####Team Goals:
-
-- MVP complete by Thursday night
-- Friday is polish / expand test coverage
-- Ajaxify a thing or two?
-- Learning opportunities in CSS
-
-#####Individual Goals:
-
-- User sessions
-- Get better with Routes
-- Heroku deployed: https://thawing-taiga-31432.herokuapp.com/
-
 ###MVP User Stories:
 
 A guest :
@@ -64,8 +51,6 @@ A SuperUser:
 - can do everything that a logged in user can do
 - can delete any article
 - can de-flag any article as 'citation needed' if a citation has been added since being flagged.
-
-####Wireframes:
 
 ####Schema:
 
